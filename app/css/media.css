@@ -1,0 +1,72 @@
+.media{
+    height: 510px;
+    width: 1040px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.media-head{
+    text-align: center;
+}
+
+.media-head p{
+    margin: 0;
+}
+
+.media-head .media-head-title{
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 33px;
+    font-weight: bold;
+    color: #ffba00;
+    letter-spacing: 8px;
+    margin: 125px 0 0;
+}
+
+.media-head .media-head-desc{
+    font-family: 'Fauna One', sans-serif; 
+    font-size: 15px;
+    color: #919191;
+    margin: 16px 0 8px;
+}
+
+.media-flex{
+    display: flex;
+    margin-top: 50px;
+}
+
+.media-flex-item p{
+    margin: 0;
+    margin-top: 30px;
+    font-family: 'Fauna One', sans-serif;
+    font-size: 15px;
+    color: #919191;
+}
+
+.media-flex-item{
+    text-align: center;
+}
+
+.forbes{
+    padding-top: 6px;
+}
+
+.tnw{
+    padding-top: 3px;
+}
+
+.media-left-arrow .fa{
+    margin: 12px 0 0 10px;;
+}
+
+.media .media-left-arrow, 
+.media .media-right-arrow{
+    background: url(../img/ellipse.png);
+    width: 53px;
+    height: 53px;
+    position: absolute;
+}
+
+.media-left-arrow{
+    top: 220px;
+    left: 170px;
+}

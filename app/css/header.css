@@ -1,0 +1,196 @@
+.top-header{
+    position: absolute;
+    margin-top: -608px;
+    margin-left: 112px;
+    width: 1200px;
+}
+
+.img-logo{
+    vertical-align: bottom;
+    margin-right: 20px;
+}
+
+.logo{
+    float: left;
+}
+
+.logo a{
+    color: #ffba00;
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 27px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.nav{    
+    margin-left: 420px;
+}
+
+.nav-list{
+    margin: 0;
+    float: left;
+    padding-left: 0;
+    padding-top: 3px;
+}
+
+.nav-list li{
+    float: left;
+    list-style-type: none;    
+    margin-right: 30px;
+}
+
+.nav-list li a{
+    text-decoration: none;
+    font-family: 'Fauna One', sans-serif;  
+    color: #fff;
+    font-size: 16px;
+}
+
+.nav-list li a:hover{
+    color: #ffba00;
+}
+
+.line{
+    margin-right: 20px;
+}
+
+.lang{
+    margin-bottom: 1px;
+}
+
+.select-lang{
+    top: 2px;
+    position: absolute;
+    margin-left: 10px;
+    background: transparent;
+    color: #fff;
+    border: none;
+}
+
+.select-lang:hover{
+    background: #ffba00;
+}
+
+.middle-header{
+    position: absolute;
+    top: 180px;
+    height: 272px;
+    width: 1400px;
+}
+
+.description{
+    float: left;
+    margin-left: 115px;
+    padding-top: 100px;
+}
+
+.description h1{
+    color: #ffba00;
+    font-family: 'Playfair Display', sans-serif;
+    letter-spacing: 8px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.description-p{
+    color: #fff;
+    font-family: 'Fauna One', sans-serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+}
+
+.play{
+    color: #fff;
+    font-family: 'Droid Serif', sans-serif; 
+    font-size: 20px;
+    margin: 0 0 0 20px;
+    display: inline-block;   
+}
+
+.play-video img{
+    float: left;
+}
+
+.play-video a{
+    text-decoration: none;
+}
+
+.play-video a i{
+    color: #000;
+}
+
+.play-video a i:hover{
+    color: #fff;
+}
+
+.fa{
+    margin: 13px 0 0 -24px;
+}
+
+.app{
+    border-radius: 5px;
+    background: #2a2a2a;
+    height: 272px;
+    width: 375px;
+    float: right;
+    right: 110px;
+    position: absolute;
+    text-align: center;
+    color: #8a8a8a;
+    font-family: 'Fauna One', sans-serif;
+    padding-top: 24px;
+}
+
+.zmdi{
+    color: #e2e2e2;
+}
+
+.store{
+    margin-left: 40px;
+    height: 38px;
+}
+
+.app-store{
+    float: left; 
+}
+
+.download-app{
+    font-family: 'Playfair Display', sans-serif;
+    color: #ffba00;
+    font-weight: bold;
+}
+
+.store p{
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 15px;
+    margin-bottom: 28px;
+    color: #919191;
+}
+
+.store p:hover{
+    color: #ffba00;
+}
+
+.app-store img,
+.google-play img{
+    margin-right: 10px;
+}
+
+.bottom-header{
+    height: 32px;
+    position: absolute;
+    top: 570px;
+    width: 1400px;    
+}
+
+.bottom-header a img{
+    margin-left: 24px;
+    float: left;
+}
+
+.socials{
+    margin-left: 1082px;
+}

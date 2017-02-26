@@ -1,0 +1,113 @@
+.benefits{
+    height: 1012px;
+}
+
+.benefits-head{
+    height: 206px;
+    text-align: center;
+}
+
+.benefits-head-title{
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 33px;
+    font-weight: bold;
+    color: #ffba00;
+    margin: 106px 0 0;
+}
+
+.benefits-head-desc{
+    font-family: 'Droid Serif', sans-serif; 
+    font-size: 15px;
+    color: #919191;
+    margin: 16px 0 0;
+}
+
+.benefits-item{
+    width: 1040px;
+    margin: 0 auto;
+}
+
+.benefits-first-ul,  
+.benefits-second-ul{
+    width: 322px;
+    height: 530px;
+    padding-top: 76px;
+    
+}
+
+.benefits-first-ul{
+    float: left;
+}
+
+.benefits-phone{
+    float: left;
+    margin-left: 40px;
+}
+
+.benefits-second-ul{
+    float: right;
+}
+
+.benefits-ul li{
+    list-style-type: none;
+    margin-bottom: 70px;
+    
+}
+
+.benefits-first-ul li img{
+    float: left;   
+    margin-right: 26px;
+}
+
+.benefits-second-ul li img:first-child{
+    float: right;
+    margin-left: 26px;
+}
+
+.benefits-second-ul {
+    text-align: right;
+}
+
+.benefits-ul-title{
+    color: #ffba00;
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 19px;
+    line-height: 25px;
+}
+
+.benefits-ul-desc{
+    font-family: 'Fauna One', sans-serif;
+    font-size: 15px;
+    color: #919191;
+    line-height: 25px;
+}
+
+.benefits-ul li p{
+    overflow: hidden;
+    margin: 0;
+}
+
+.benefits-ul{
+    padding: 0;
+    margin: 0;
+}
+
+.hover1{
+    margin: -50px 0 0 22px;
+    display: none;
+    position: absolute;    
+}
+
+.benefits-first-ul li:hover .hover1{
+    display: block;   
+}
+
+.hover2{
+    position: absolute;
+    margin: -50px 0 0 -84px;
+    display: none; 
+}
+
+.benefits-second-ul li:hover .hover2{
+    display: block; 
+}

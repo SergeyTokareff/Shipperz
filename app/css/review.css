@@ -1,0 +1,75 @@
+.review{
+    height: 502px;
+    background: url(../img/cell-phone.png);
+}
+
+.progress-content{
+    width: 1040px;
+    margin: 0 auto;
+}
+
+.progress-left-arrow{
+    background: url(../img/ellipse.png);
+    width: 53px;
+    height: 53px;
+    margin-top: 250px;
+    float: left;
+}
+
+.progress-left-arrow .fa{
+    margin: 12px 6px 0 0;
+}
+
+.progress-right-arrow{
+    background: url(../img/ellipse.png);
+    width: 53px;
+    height: 53px;
+    margin-top: 250px;
+    float: right;
+}
+
+.progress-right-arrow .fa{
+    margin: 12px 0 0 6px;
+}
+
+.progress-left-arrow:hover, 
+.progress-right-arrow:hover i{
+    color: #ffba00;
+}
+
+.progress-main{
+    text-align: center;
+    width: 770px;
+    float: left;
+    margin-left: 77px;
+    padding-top: 100px;
+}
+
+.progress-main p{
+    margin: 0;
+}
+
+.progress-main .photo-desc{
+    font-family: 'Fauna One', sans-serif;
+    font-size: 15px;
+    color: #fff;
+    line-height: 29px;
+    margin: 50px 0 40px;
+}
+
+.progress-main .name{
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 16px;
+    color: #ffba00;
+    margin-bottom: 20px;
+}
+
+.progress-main .founder{
+    font-family: 'Fauna One', sans-serif;
+    font-size: 15px;
+    color: #fff;
+}
+
+.founder-color{
+    color: #ffba00;
+}

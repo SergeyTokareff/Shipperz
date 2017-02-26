@@ -1,0 +1,94 @@
+.guidelines{
+    height: 406px;
+    position: relative;
+}
+
+.sender{
+    width: 50%;
+    height: 100%;
+    background: #ffba00;
+    float: left;
+    color: #232323;
+    text-align: center;
+}
+
+.shipper{
+    height: 100%;
+    width: 50%;
+    float: left;
+    background: url(../img/shipper.png) no-repeat;
+    color: #ffba00;
+    text-align: center;
+}
+
+.guidelines-main{
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.guidelines-if{
+    font-family: 'Fauna One', sans-serif;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+.guidelines-click{
+    font-family: 'Fauna One', sans-serif;
+    font-size: 20px;
+}
+
+.sender-click, 
+.shipper-click{    
+    padding: 14px 24px;
+    border-radius: 3px;
+    text-decoration: none; 
+}
+
+.sender-click{
+    border: 1px solid #232323;
+    color: #232323;
+}
+
+.shipper-click{
+    border: 1px solid #ffba00;
+    color: #ffba00;
+}
+
+.sender-click i{
+    color: #232323;
+    padding-left: 8px;
+    vertical-align: middle;
+}
+
+.shipper-click i{
+    color: #ffba00;
+    padding-left: 8px;
+    vertical-align: middle;
+}
+
+.sender-info, 
+.shipper-info{
+    width: 360px;
+    margin: 0 auto;
+    margin-top: 110px;
+}
+
+.sender-click:hover, 
+.shipper-click:hover{
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.sender-click:hover i, 
+.shipper-click:hover i{
+    color: #fff;
+}
+
+.or{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  transform: translate(-50%, -50%);
+}
