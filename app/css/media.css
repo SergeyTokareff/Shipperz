@@ -58,6 +58,10 @@
     margin: 12px 0 0 10px;;
 }
 
+.media-right-arrow .fa{
+    margin: 12px 0 0 18px;
+}
+
 .media .media-left-arrow, 
 .media .media-right-arrow{
     background: url(../img/ellipse.png);
@@ -67,6 +71,16 @@
 }
 
 .media-left-arrow{
-    top: 220px;
-    left: 170px;
+    top: 182px;
+    left: 110px;
+}
+
+.media-right-arrow{
+    top: 182px;
+    right: 110px;
+}
+
+.media-left-arrow:hover, 
+.media-right-arrow:hover i{
+    color: #ffba00;
 }

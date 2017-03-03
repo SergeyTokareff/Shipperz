@@ -1,6 +1,7 @@
 {
   "name": "shipperz",
   "dependencies": {
-    "normalize-css": "normalize.css#^5.0.0"
+    "normalize-css": "normalize.css#^5.0.0",
+    "slick-carousel": "^1.6.0"
   }
 }

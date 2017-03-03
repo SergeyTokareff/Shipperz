@@ -5,6 +5,10 @@
 @import "progress.css";
 @import "review.css";
 @import "media.css";
+@import "join-team.css";
+@import "forum.css";
+@import "contact-us.css";
+@import "footer.css";
 
 *{
     -webkit-box-sizing: border-box;

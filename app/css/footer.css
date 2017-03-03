@@ -1,0 +1,101 @@
+.footer{
+    height: 454px;
+    background: url(../img/footer-ship.png);
+}
+    
+.footer-main{
+    height: 380px;
+}
+
+.footer-logo{
+    float: left;
+    width: 50%;
+    padding: 136px 100px 0 185px;
+}
+
+.footer-logo a{
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 33px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+}
+
+.footer-logo img{ 
+    margin: 0;
+    padding-right: 16px;
+}
+
+.footer-logo p{
+    font-family: 'Fauna One', sans-serif;
+    font-size: 15px;
+    color: #232323;
+}
+
+.footer-menu{
+    float: left;
+    width: 50%; 
+    padding: 190px 185px 0 80px;
+}
+
+.footer-menu ul{
+    padding: 0;
+    margin: 0; 
+    list-style-type: none;
+}
+
+.main-item{
+    float: left;
+    line-height: 1.5;
+}
+
+.main-item a{
+    text-decoration: none;
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 15px;
+    color: #232323;
+    font-weight: bold;
+}
+
+.main-item li a{
+    font-family: 'Fauna One', sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.footer-menu ul li ul li{
+    float: none;
+}
+
+.main-item-3{
+    float: right;
+}
+
+.main-item-2{
+    margin-left: 76px;
+}
+
+.footer-social{
+    border-top: 2px dotted #ba8f1b;
+    height: 74px;
+    
+    width: 1030px;
+    margin: 0 auto;
+}
+
+.footer-social-links img{
+    margin-right: 20px;
+}
+
+.footer-social-links{
+    float: left;
+    padding-top: 20px;
+}
+
+.copyright{
+    float: right;
+    font-family: 'Fauna One', sans-serif;
+    font-size: 15px;
+    color: #232323;
+    padding-top: 30px;
+}

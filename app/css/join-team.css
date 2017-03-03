@@ -1,0 +1,75 @@
+.join-team{
+    height: 408px;
+    position: relative;
+}
+
+.join-team-left{
+    width: 50%;
+    height: 100%;
+    float: left;
+    background: #ffba00;
+}
+
+.join-team-right{
+    width: 50%;
+    height: 100%;
+    float: left;
+    background: url(../img/ship.png) no-repeat;   
+}
+
+.join-team-content{
+    text-align: left;
+    margin-left: 182px;
+    width: 430px;
+}
+
+.join-team-content p{
+    margin: 0;
+}
+
+.join-team-title{
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 33px;
+    color: #232323;
+    font-weight: bold;
+    padding: 90px 0 30px;
+}
+
+.join-team-desc{
+    font-family: 'Fauna One', sans-serif;
+    font-size: 15px;
+    color: #232323;
+    padding-bottom: 30px;
+}
+
+.join-team-click{
+    padding: 14px 24px;
+    border-radius: 3px;
+    text-decoration: none; 
+    border: 1px solid #232323;
+    color: #232323;
+    font-family: 'Fauna One', sans-serif;
+    font-size: 15px;
+}
+
+.join-team-click i{
+    color: #232323;
+    padding-left: 8px;
+    vertical-align: middle;
+}
+
+.join-team-click:hover{
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.join-team-click:hover i{
+    color: #fff;
+}
+
+.anchor{
+    position: absolute;
+    top: 82px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
